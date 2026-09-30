@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\appointmentdtos\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\appointmentdtos\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\appointmentdtos\\getappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\appointmentdtos\\getappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\patientdtos\\getpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\patientdtos\\getpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\implementation\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\implementation\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\interface\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\implementation\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\implementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\doctordtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\doctordtos\\createdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\doctordtos\\getdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\doctordtos\\getdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\interface\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\implementation\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\implementation\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\interface\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\interface\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\implementation\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\implementation\\appointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\interface\\iappointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\interface\\iappointmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\implementation\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\implementation\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\interface\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\interface\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\repos\\interface\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\repos\\interface\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\hospitalmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\hospitalmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Migrations\\20260930211317_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalManagement\\Migrations\\20260930211317_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\patientdtos\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\patientdtos\\createpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\medicalrecorddtos\\createmedicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\medicalrecorddtos\\createmedicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\medicalrecorddtos\\getmedicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\medicalrecorddtos\\getmedicalrecorddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\models\\medicalrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\departmentdtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\departmentdtos\\createdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\dto\u0027s\\departmentdtos\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\dto\u0027s\\departmentdtos\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|c:\\users\\el rawad\\source\\repos\\hospitalmanagement\\hospitalmanagement\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52569797-9BD8-4B7E-9C10-0E0D6695C2F3}|HospitalManagement\\HospitalManagement.csproj|solutionrelative:hospitalmanagement\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\appointmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\appointmentsController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\appointmentsController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\appointmentsController.cs",
+              "ViewState": "AgIAAAcAAAAwAQAAAAAnwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T23:06:15.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "patientsController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\patientsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\patientsController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\patientsController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\patientsController.cs",
+              "ViewState": "AgIAAC0AAADAlpmZmZkjwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:42:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "doctorsController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\doctorsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\doctorsController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\doctorsController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\doctorsController.cs",
+              "ViewState": "AgIAAEoAAAAAaGZmZmYqwFIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:20:18.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Interface\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IGenericRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Interface\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:14:55.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Implementation\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\DoctorRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Implementation\\DoctorRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABcPRYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:30:37.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetPatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\PatientDTOs\\GetPatientDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\PatientDTOs\\GetPatientDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\PatientDTOs\\GetPatientDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\PatientDTOs\\GetPatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:51:57.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateAppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\CreateAppointmentDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\CreateAppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\CreateAppointmentDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\CreateAppointmentDTO.cs",
+              "ViewState": "AgIAAAYAAABYzMzMzMwowBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:55:22.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Implementation\\GenericRepo.cs",
+              "ViewState": "AgIAABUAAACAZWZmZmYSwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:16:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Implementation\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\UnitOfWork.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Implementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:49:41.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\GetAppointmentDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\GetAppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\GetAppointmentDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\AppointmentDTOs\\GetAppointmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:55:27.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DoctorDTOs\\CreateDoctorDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\DoctorDTOs\\CreateDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DoctorDTOs\\CreateDoctorDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\DoctorDTOs\\CreateDoctorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:51:01.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DoctorDTOs\\GetDoctorDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\DoctorDTOs\\GetDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DoctorDTOs\\GetDoctorDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\DoctorDTOs\\GetDoctorDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYvRAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:51:13.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HospitalManagement\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAGwAAAAA4DIzM7MfwHUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:49:42.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "departmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\departmentsController.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Controllers\\departmentsController.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Controllers\\departmentsController.cs",
+              "RelativeToolTip": "HospitalManagement\\Controllers\\departmentsController.cs",
+              "ViewState": "AgIAACQAAAAA/f////8HwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:27:56.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Interface\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IUnitOfWork.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Interface\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:49:52.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Interface\\IDepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IDepartmentRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Interface\\IDepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:24:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Program.cs",
+              "RelativeToolTip": "HospitalManagement\\Program.cs",
+              "ViewState": "AgIAAAkAAAD4mJmZmZk/wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:10:25.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\AppointmentRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Implementation\\AppointmentRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\AppointmentRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Implementation\\AppointmentRepo.cs",
+              "ViewState": "AgIAAAQAAAAgMjMzMzMrwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:43:52.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Implementation\\DepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\DepartmentRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Implementation\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:24:14.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAppointmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IAppointmentRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Interface\\IAppointmentRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IAppointmentRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Interface\\IAppointmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:44:05.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Implementation\\PatientRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Implementation\\PatientRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Implementation\\PatientRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:36:27.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IPatientRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Interface\\IPatientRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IPatientRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Interface\\IPatientRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:36:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IDoctorRepo.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Repos\\Interface\\IDoctorRepo.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Repos\\Interface\\IDoctorRepo.cs",
+              "RelativeToolTip": "HospitalManagement\\Repos\\Interface\\IDoctorRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:30:48.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260930211317_init.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Migrations\\20260930211317_init.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Migrations\\20260930211317_init.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Migrations\\20260930211317_init.cs",
+              "RelativeToolTip": "HospitalManagement\\Migrations\\20260930211317_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:13:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagement\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAABAZmZmZmYkwBwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:47:35.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\appsettings.json",
+              "RelativeToolTip": "HospitalManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T21:07:31.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MedicalRecord.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\MedicalRecord.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Models\\MedicalRecord.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\MedicalRecord.cs",
+              "RelativeToolTip": "HospitalManagement\\Models\\MedicalRecord.cs",
+              "ViewState": "AgIAAAIAAADAMjMzMzMTwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:47:43.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateMedicalRecordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\CreateMedicalRecordDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\CreateMedicalRecordDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\CreateMedicalRecordDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\CreateMedicalRecordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:54:00.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetMedicalRecordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\GetMedicalRecordDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\GetMedicalRecordDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\GetMedicalRecordDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\MedicalRecordDTOs\\GetMedicalRecordDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:54:06.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalManagement\\Models\\Patient.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:48:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HospitalManagement",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
+              "RelativeDocumentMoniker": "HospitalManagement\\HospitalManagement.csproj",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
+              "RelativeToolTip": "HospitalManagement\\HospitalManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-30T20:50:08.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreatePatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\PatientDTOs\\CreatePatientDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\PatientDTOs\\CreatePatientDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\PatientDTOs\\CreatePatientDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\PatientDTOs\\CreatePatientDTO.cs",
+              "ViewState": "AgIAAAEAAAAYMjMzMzMrwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:51:40.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\CreateDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\CreateDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\CreateDepartmentDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\CreateDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:53:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GetDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "RelativeToolTip": "HospitalManagement\\DTO\u0027S\\DepartmentDTOs\\GetDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:52:47.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Department.cs",
+              "RelativeToolTip": "HospitalManagement\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:46:48.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagement\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\EL RAWAD\\source\\repos\\HospitalManagement\\HospitalManagement\\Models\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagement\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T20:47:16.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
